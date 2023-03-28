@@ -9,7 +9,7 @@ function addInCartMessage(title, price) {
     // присвойте переменной message значение переменной productName
     message = productName;
     // добавьте в конец переменной message пробел
-    message = productName + " ";
+    message = productName + ' ';
     // добавьте в конец переменной message текст 'за'
     message = productName + " " + "за";
     // добавьте в конец переменной message пробел
